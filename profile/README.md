@@ -1,6 +1,6 @@
 # 🌟 Welcome to the Better Ecosystem! 🌟
 
-Hi there! We're building the **Better Ecosystem**, a suite of applications that will include a new Desktop Environment (DE) for Linux distributions, tentatively called **betterTWM**. The entire ecosystem is designed with a focus on simplicity, efficiency, and a cohesive user experience. 🚀
+Hi there! We're building the **Better Ecosystem**, a suite of applications that will include a new Desktop Environment (DE) for Linux distributions, tentatively called **BTDE (Better Tiling Window Manager)**. The entire ecosystem is designed with a focus on simplicity, efficiency, and a cohesive user experience. 🚀
 
 ## 🌱 Our Vision
 
