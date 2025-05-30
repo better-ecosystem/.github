@@ -2,7 +2,7 @@
 
 Hi there! We're building the **Better Ecosystem**, a suite of applications that will include a new Desktop Environment (DE) for Linux distributions, tentatively called **BTDE (Better Tiling Window Manager)**. The entire ecosystem is designed with a focus on simplicity, efficiency, and a cohesive user experience. 🚀
 
-## 🌱 Our Vision
+## 👀 Our Vision
 
 The goal is to create a "better" Linux experience by developing a suite of applications that are:
 - **Lightweight & Fast:** Optimized for performance.
