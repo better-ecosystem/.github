@@ -35,7 +35,15 @@ This is an ambitious project, and community involvement will be key to its succe
 - ⭐ Star the repositories of projects you're interested in.
 - 💡 Open issues with suggestions, feature requests, or bug reports once projects are active.
 - 🧑‍💻 Contribute code, documentation, or design ideas.
-- 💰 Consider donating to support the project (details on how to donate will be available soon!).
+- 💰 Consider donating to support the project.
 - 📧 Contact us at betterecosystem@proton.me.
 
 We're excited to build a better Linux desktop experience together!
+
+---
+## Please consider donating
+Bitcoin: `bc1q5mme3sh8w0ymgty207vj7sz9w6dcmcqzfa6sf7`
+![bitcoin](https://github.com/user-attachments/assets/7ac3cccc-3ccc-4d38-adcd-ab69b5c67a1f)
+
+Other methods of donation will be added soon.
+
