@@ -43,6 +43,7 @@ We're excited to build a better Linux desktop experience together!
 ---
 ## Please consider donating
 Bitcoin: `bc1q5mme3sh8w0ymgty207vj7sz9w6dcmcqzfa6sf7`
+
 ![bitcoin](https://github.com/user-attachments/assets/7ac3cccc-3ccc-4d38-adcd-ab69b5c67a1f)
 
 Other methods of donation will be added soon.
